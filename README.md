@@ -43,5 +43,5 @@ Before running the application locally or deploying to a cloud provider, ensure 
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/o4u-ai.git
-cd o4u-ai
+git clone https://github.com/owais4u/O4U-AI.git
+cd O4U-AI
